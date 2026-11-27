@@ -1,6 +1,6 @@
 # Databricks notebook source
 
-timeout = 1899
+timeout = 1900
 
 # COMMAND ----------
 
