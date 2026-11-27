@@ -4,6 +4,6 @@ timeout = 2000
 
 # COMMAND ----------
 
-retry_count = 5
+retry_count = 6
 
 print(timeout, retry_count)
